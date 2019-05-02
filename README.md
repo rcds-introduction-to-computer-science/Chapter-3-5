@@ -1,0 +1,2 @@
+# Chapter-3-5
+The formula for calculating the speed of the mouse's horizontal motion is the absolute value of the difference between mouseX and pmouseX. The absolute value of a number is defined as that number without its sign:
